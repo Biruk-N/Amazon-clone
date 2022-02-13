@@ -30,7 +30,9 @@
 
 ## Build the Banner
 
-    > inside home__contaier
+    > add image inside Home.js
+
+    > style the image with linear gradient and mask
 
 ## Build the product component
 

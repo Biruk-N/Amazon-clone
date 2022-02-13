@@ -10,7 +10,9 @@
 
     > Add react router for navigation
 
-    > Add material ui, then icons from material ui
+    > Add material ui, then search for icons from material ui
+
+    > Select search the full list of these icons
 
 ## Build the Banner
 

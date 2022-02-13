@@ -1,5 +1,6 @@
 import './App.css';
-
+import './Header'
+import Header from './Header';
 function App() {
   return (
      //react-router needed for page routing
@@ -7,6 +8,7 @@ function App() {
    
     <div className="App">
       <h1>Hello it's git test</h1>
+      <Header />
     </div>
   );
 }

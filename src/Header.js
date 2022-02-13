@@ -6,10 +6,7 @@ function Header() {
         <img 
             className="header
             __logo" 
-            src="http://
-            pngimg.com/
-            uploads/amazon/
-            amazon_PNG11.png" 
+            src="http://pngimg.com/uploads/amazon/amazon_PNG11.png" 
             
         />
 

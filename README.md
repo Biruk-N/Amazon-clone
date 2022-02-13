@@ -10,3 +10,5 @@
 ## Build Checkout Page
 ##  Build Subtotal Component
 ##  Build Login Page
+## Deploy live on firebase
+

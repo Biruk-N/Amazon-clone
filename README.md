@@ -8,9 +8,9 @@
 
 ## Build the Navigation bar
 
-    ## add react router for navigation
+    > Add react router for navigation
 
-    add material ui, then icons from material ui
+    > Add material ui, then icons from material ui
 
 ## Build the Banner
 

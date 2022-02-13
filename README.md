@@ -1,16 +1,16 @@
 # Amazon-clone
 
-## create react app
+## Create react app
 
     > create-react-app Amazon-clone
 
-## then set up firebase
+## Then set up firebase
 
     > Get start
 
     > Add a project
 
-## set up react router
+## Set up react router
 
 ## Build the Navigation bar
 

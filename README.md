@@ -2,7 +2,13 @@
 
 ## create react app
 
+    > create-react-app Amazon-clone
+
 ## then set up firebase
+
+    > Get start
+
+    > Add a project
 
 ## set up react router
 

@@ -30,6 +30,8 @@
 
 ## Build the Banner
 
+    > inside home__contaier
+
 ## Build the product component
 
 ## Set up REACT Context API + Set up Add to Basket

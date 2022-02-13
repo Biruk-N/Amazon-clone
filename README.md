@@ -36,6 +36,10 @@
 
 ## Build the product component
 
+    > create product component
+
+    >
+
 ## Set up REACT Context API + Set up Add to Basket
 
 ## Build Checkout Page

@@ -38,7 +38,7 @@
 
     > create product component
 
-    >
+    > pass products by props to Home component
 
 ## Set up REACT Context API + Set up Add to Basket
 

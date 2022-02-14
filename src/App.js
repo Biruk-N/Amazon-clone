@@ -9,7 +9,7 @@ function App() {
    // because react by default doesn't include.
   //  <Router></Router>
       <div className="app">
-        <h1>Hello it's git test</h1>
+        
         <Header />
         <Home /> 
       </div>

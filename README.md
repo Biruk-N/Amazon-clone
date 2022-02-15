@@ -46,6 +46,8 @@
 
     > add react router
 
+    > uses state to pass the number of items added to basket
+
 ## Build Checkout Page
 
 ## Build Subtotal Component

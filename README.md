@@ -42,6 +42,10 @@
 
 ## Set up REACT Context API + Set up Add to Basket
 
+    > create add to basket component
+
+    > add react router
+
 ## Build Checkout Page
 
 ## Build Subtotal Component

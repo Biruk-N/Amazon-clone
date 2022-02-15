@@ -3,6 +3,8 @@ import { BrowserRouter , Router, Routes, Route } from "react-router-dom";
 
 import Header from './Header';
 import Home from './Home';
+import Checkout from './Checkout';
+// import Product from './Product';
 function App() {
   return (
     //react-router needed for page routing
@@ -30,15 +32,27 @@ function App() {
     //   </div>
     // </Router>
     <div className="app">
-      <Header />
+      {/* <Header /> */}
        <BrowserRouter>
+       <Header />
+
+
         <Routes>
-          <Route path="/" element={<Home />} >
           
-          {/* <Route path="/he" element={} /> */}
+          <Route exact path="/Checkout" element={<Checkout/>} >
+          {/* <Route path="/" element={<Header />}> */}
           
           </Route>
         </Routes>
+
+        <Routes>
+          <Route exact path="/" element={<Home />} >
+          {/* <Route path="/" element={<Header />}> */}
+          
+          </Route>
+
+        </Routes>
+
   </BrowserRouter>
     </div>
   );

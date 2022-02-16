@@ -3,6 +3,10 @@ export const initialState = {
     // user: null, 
 };
 
+// build a selector for subtotal
+export const getBasketTotal = (basket) =>
+    basket?.reduce((amount, item) => item.price + amount, 0);
+
 const reducer = (state, action) => {
     console.log(action);
     switch (action.type) {

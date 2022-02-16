@@ -51,7 +51,7 @@
 ## Build Checkout Page
 
 > add ad image, basket list & subtotal price
->
+
 > > > and other
 
     >

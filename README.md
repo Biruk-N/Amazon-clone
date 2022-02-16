@@ -50,13 +50,17 @@
 
 ## Build Checkout Page
 
-> add ad image,
+> add ad image, basket list & subtotal price
+>
+> > >
 
     >
 
 ## Build Subtotal Component
 
     > add the subtotal function by passing value from reducer
+
+    >
 
 ## Build Login Page
 

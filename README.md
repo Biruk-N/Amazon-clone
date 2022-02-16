@@ -50,7 +50,7 @@
 
 ## Build Checkout Page
 
-> add ad photo,
+> add ad image,
 
     >
 

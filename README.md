@@ -52,9 +52,9 @@
 
 > add ad image, basket list & subtotal price
 
-> > > and other
+- and other
 
-    >
+  >
 
 ## Build Subtotal Component
 

@@ -50,6 +50,8 @@
 
 ## Build Checkout Page
 
+    > add the subtotal function by passing value from reducer
+
 ## Build Subtotal Component
 
 ## Build Login Page

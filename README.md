@@ -4,6 +4,8 @@
 
 ## Create react app
 
+###### jk
+
     > create-react-app Amazon-clone
 
 ## Then set up firebase
@@ -51,8 +53,6 @@
 ## Build Checkout Page
 
 > add ad image, basket list & subtotal price
-
-- other
 
 >
 

@@ -25,18 +25,13 @@ const [{basket}, dispatch] = useStateValue();
             <h2>
                 The subtotal will go there
             </h2>    
-            {basket
-
-            .map(item => ( 
+            {basket.map(item => ( 
 
             <Checkoutproduct
-                // id = {item.id}
-                title = {item.title}
-                image = {item.image}
-                price = {item.price}
-                rating = {item.rating}
-
-               
+                title={item.title}
+                image={item.image} 
+                price={item.price}
+                rating={item.rating} 
             /> 
             ))}
 

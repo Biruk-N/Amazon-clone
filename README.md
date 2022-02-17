@@ -56,7 +56,7 @@
 
 ## Build Subtotal Component
 
-    > add the subtotal function by passing value from reducer
+    > add the price of products and show in subtotal component by passing value from reducer
 
     >
 

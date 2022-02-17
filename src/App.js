@@ -46,6 +46,14 @@ function App() {
         </Routes>
 
         <Routes>
+          
+          <Route exact path="/Login" element= {<h1>Login</h1>} >
+          {/* <Route path="/" element={<Header />}> */}
+          
+          </Route>
+        </Routes>
+
+        <Routes>
           <Route exact path="/" element={<Home />} >
           {/* <Route path="/" element={<Header />}> */}
           

@@ -1,7 +1,9 @@
 import React from 'react'
 import './Checkoutproduct.css'
+import { useStateValue } from './Stateprovider';
 
-function Checkoutproduct(image, title, price, rating) {
+function Checkoutproduct({title, image, price, rating}) {
+  const [{ basket }, dispatch] = useStateValue();
   return (
     <div className="checkoutproduct">
       <img className='checkoutproduct__image' src={image} alt=''/>

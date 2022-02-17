@@ -11,6 +11,7 @@ function Home() {
             />
             <div className="home__row">
                 <Product
+                 id="5678934"
                  title="The Lean Startup: How Constant
                     Innovation Creates Radicaly Successful
                     Businesses Paperback"
@@ -23,6 +24,7 @@ function Home() {
               
 
                 <Product
+                 id="0987244"
                  title='Kenwood KMIX Stand Mixer for
                     Baking, Stylish Kitchen Mixer with
                     K-beater'
@@ -37,14 +39,14 @@ function Home() {
 
             <div className="home__row">
             <Product
-               
+                id="49538094"
                 title="Fitbit Sense Advanced Smartwatch with Tools for Heart Health, Stress Management & Skin Temperature Trends"
                 price={199.99}
                 rating={3} 
                 image="https://m.media-amazon.com/images/I/61e0vvMItLL._AC_UY327_FMwebp_QL65_.jpg"
             />
             <Product
-               
+                id="4903850"
                 title="Echo Studio + Amazon Smart Plug, Works with Alexa - Smart Home Starter Kit"
                 price={98.99}
                 rating={5}
@@ -52,7 +54,7 @@ function Home() {
 
             />
                 <Product
-                    
+                    id="23445930"
                     title="New Apple iPad Pro (12.9-inch, Wi-Fi, 128GB)"
                     price= {598.99}
                     //  Silver (4th Generation)"
@@ -63,7 +65,7 @@ function Home() {
 
             <div className="home__row">
                 <Product
-                
+                id="3254354345"
                 title="Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor"
                 price={199.99}
                 rating={3} 

@@ -19,8 +19,13 @@ function Checkoutproduct(image, title, price, rating) {
         </p>
 
         <div className='checkoutproduct__rating'>
-          {rating}
+          {Array(rating)
+          .fill()
+          .map((_, i) => (
+            <p>⭐️</p>
+            ))}
         </div>
+        <button>Remove from basket</button>
 
       </div>
     </div>

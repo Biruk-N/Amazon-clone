@@ -58,7 +58,7 @@
 
     > add the price of products and show in subtotal component by passing value from reducer
 
-    >
+    > add checkoutproduct component and pass the value of products
 
 ## Build Login Page
 

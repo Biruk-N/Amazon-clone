@@ -61,5 +61,6 @@
     > add checkoutproduct component and pass the value of products
 
 ## Build Login Page
+> add login component and style with css
 
 ## Deploy live on firebase

@@ -22,12 +22,13 @@ const [{basket}, dispatch] = useStateValue();
         
         <div className="checkout__right">
             <Subtotal />
-            <h2>
+            {/* <h2>
                 The subtotal will go there
-            </h2>    
+            </h2>     */}
             {basket.map(item => ( 
 
             <Checkoutproduct
+                id={item.id}
                 title={item.title}
                 image={item.image} 
                 price={item.price}

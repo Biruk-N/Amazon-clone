@@ -4,6 +4,7 @@ import { BrowserRouter , Router, Routes, Route } from "react-router-dom";
 import Header from './Header';
 import Home from './Home';
 import Checkout from './Checkout';
+import Login from './Login';
 // import Product from './Product';
 function App() {
   return (
@@ -34,8 +35,15 @@ function App() {
     <div className="app">
       {/* <Header /> */}
        <BrowserRouter>
-       <Header />
+    
 
+       <Routes>
+          
+          <Route exact path="/Checkout" element={   <Header />} >
+          {/* <Route path="/" element={<Header />}> */}
+          
+          </Route>
+        </Routes>
 
         <Routes>
           
@@ -47,12 +55,20 @@ function App() {
 
         <Routes>
           
-          <Route exact path="/Login" element= {<h1>Login</h1>} >
+          <Route exact path="/Login" element= {<Login />} >
           {/* <Route path="/" element={<Header />}> */}
           
           </Route>
         </Routes>
+       
+        <Routes>
+          <Route exact path="/" element={   <Header />} >
+          {/* <Route path="/" element={<Header />}> */}
+          
+          </Route>
 
+        </Routes>
+       
         <Routes>
           <Route exact path="/" element={<Home />} >
           {/* <Route path="/" element={<Header />}> */}

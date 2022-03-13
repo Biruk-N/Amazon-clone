@@ -8,6 +8,7 @@ import Login from './Login';
 // import Product from './Product';
 function App() {
   return (
+
     //react-router needed for page routing
     // because react by default doesn't include.
     // <Router>

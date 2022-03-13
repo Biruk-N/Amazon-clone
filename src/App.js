@@ -52,6 +52,7 @@ function App() {
           {/* <Route path="/" element={<Header />}> */}
           
           </Route>
+
         </Routes>
 
         <Routes>

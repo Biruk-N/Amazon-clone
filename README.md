@@ -14,39 +14,39 @@
 
 ## Set up react router
 
-    > npm install react-router-dom
+     npm install react-router-dom
 
-    > then import BrowserRouter as Router, Switch, Route from react-router-dom
+     then import BrowserRouter as Router, Switch, Route from react-router-dom
 
 ## Build the Navigation bar
 
-    > Add react router for navigation
+     Add react router for navigation
 
-    > Add material ui, then search for icons from material ui
+     Add material ui, then search for icons from material ui
 
-    > Select search the full list of these icons
+     Select search the full list of these icons
 
-    > add search and add to basket icons
+     add search and add to basket icons
 
 ## Build the Banner
 
-    > add image inside Home.js
+     add image inside Home.js
 
-    > style the image with linear gradient and mask
+     style the image with linear gradient and mask
 
 ## Build the product component
 
-    > create product component
+     create product component
 
-    > pass products by props to Home component
+     pass products by props to Home component
 
 ## Set up REACT Context API + Set up Add to Basket
 
-    > create add to basket component
+     create add to basket component
 
-    > add react router
+     add react router
 
-    > uses state to pass the number of items added to basket
+     uses state to pass the number of items added to basket
 
 ## Build Checkout Page
 
@@ -56,9 +56,9 @@
 
 ## Build Subtotal Component
 
-    > add the price of products and show in subtotal component by passing value from reducer
+     add the price of products and show in subtotal component by passing value from reducer
 
-    > add checkoutproduct component and pass the value of products
+     add checkoutproduct component and pass the value of products
 
 ## Build Login Page
 > add login component and style with css

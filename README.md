@@ -8,9 +8,9 @@
 
 ## Then set up firebase
 
-    > Get start
+     Get start
 
-    > Add a project
+     Add a project
 
 ## Set up react router
 

@@ -4,7 +4,7 @@
 
 ## Create react app
 
-    > create-react-app Amazon-clone
+    create-react-app Amazon-clone
 
 ## Then set up firebase
 

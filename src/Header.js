@@ -9,6 +9,7 @@ function Header() {
     const[{ basket }, dispatch] = useStateValue(); 
     return (
     <div className = 'header'>
+    
         <Link to="/">
             <img 
                 className="header__logo" 
@@ -16,6 +17,7 @@ function Header() {
                 alt=""
             />
         </Link>
+
         <div 
         className="header__search"> 
             <input

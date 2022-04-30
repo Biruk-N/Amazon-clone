@@ -50,9 +50,8 @@
 
 ## Build Checkout Page
 
-> add ad image, basket list & subtotal price
+     add ad image, basket list & subtotal price
 
->
 
 ## Build Subtotal Component
 
@@ -61,6 +60,6 @@
      add checkoutproduct component and pass the value of products
 
 ## Build Login Page
-> add login component and style with css
+     add login component and style with css
 
 ## Deploy live on firebase
